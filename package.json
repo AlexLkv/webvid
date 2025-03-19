@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "build": "echo \"npm install && npm start\"",
+    "build": "echo \"npm install\"",
     "start": "node server.js"
   },
   "dependencies": {
